@@ -8,8 +8,8 @@ Just copy the contents of delff.txt into a linux terminal
 
 # Instructions
 
-git clone https://github.com/coltn/delff
-sh -e delff/delff.txt
+1. git clone https://github.com/coltn/delff
+2. sh -e delff/delff.txt
 
 # Why delete Firefox?
 I prefer Librewolf.
