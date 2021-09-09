@@ -1,6 +1,6 @@
 sudo apt-get purge -y firefox;
-sudo rm -rf $SUDO_USER/.mozilla/;
-sudo rm -rf $SUDO_USER/etc/firefox/;
-sudo rm -rf $SUDO_USER/usr/lib/firefox/;
-sudo rm -rf $SUDO_USER/usr/lib/firefox-addons/;
-sudo rm -rf $SUDO_USER/.cache/mozilla/
+sudo rm -rf /.mozilla/;
+sudo rm -rf /etc/firefox/;
+sudo rm -rf /usr/lib/firefox/;
+sudo rm -rf /usr/lib/firefox-addons/;
+sudo rm -rf /.cache/mozilla/
