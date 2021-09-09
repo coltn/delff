@@ -7,16 +7,22 @@ The tool automatically deletes itself after use.
 
 # Instructions
 
-## CLI / GIT Method:
+Run the contents of the delff file in a Linux terminal.
+
+## Ways to do this:
+
+### CLI / Git Method:
 
 1. Open terminal
 2. Type `git clone https://github.com/coltn/delff`
 3. Type `sh delff/delff`
 
-## Non-Git Methods:
-(Copy/Paste or Manual Download)
+### Copy/Paste
 
-* Just copy/paste the contents of the [delff file](https://github.com/coltn/delff/blob/main/delff "delff") into terminal, or
+* Just copy/paste the contents of the [delff file](https://github.com/coltn/delff/blob/main/delff "delff") into terminal
+
+### Manual Download
+
 * Download the [delff file](https://github.com/coltn/delff/blob/main/delff "delff") and type `sh delff` into terminal
 
 ## Why delete Firefox? Why make a tool?
