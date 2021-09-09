@@ -6,5 +6,10 @@ Bash scripts or python programs require too many permissions or added configurat
 
 Just copy the contents of delff.txt into a linux terminal
 
+# Instructions
+
+git clone https://github.com/coltn/delff
+sh -e delff/delff.txt
+
 # Why delete Firefox?
 I prefer Librewolf.
