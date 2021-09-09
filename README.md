@@ -11,7 +11,7 @@ The tool automatically deletes itself after use.
 2. Type `git clone https://github.com/coltn/delff`
 3. Type `sh delff/delff`
 
-* Alternatively: Copy/Paste the contents of the delff file into the terminal.
+* Or: Just open the [delff file](https://github.com/coltn/delff/blob/main/delff "delff") and copy/paste into terminal (no git required)
 
 ## Why delete Firefox? Why make a tool?
 I prefer Librewolf; and it takes several steps to fully uninstall FF when I test out distros.
