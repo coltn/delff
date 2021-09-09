@@ -5,5 +5,6 @@ sudo rm -rf /etc/firefox/;
 sudo rm -rf /usr/lib/firefox/;
 sudo rm -rf /usr/lib/firefox-addons/;
 echo
-echo Firefox Deleted. This tool will now self-destruct.
+echo Firefox Deleted.
+echo This tool will now delete itself.
 sudo rm -rf delff
