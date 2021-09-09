@@ -1,15 +1,15 @@
 # Delete Firefox (for Linux)
 
 This is the easiest way I could find to automate the uninstallation of Firefox on Linux.
-Bash scripts or python programs require too many permissions or added configuration.
+The main file is just several terminal commands merged into one.
 
 The tool automatically deletes itself after use.
 
 # Instructions
 
 1. open terminal
-2. run `git clone https://github.com/coltn/delff`
-3. run `sh delff/delff`
+2. type in `git clone https://github.com/coltn/delff`
+3. type in `sh delff/delff`
 
 # Why delete Firefox? Why make a tool?
-I prefer Librewolf. When I test out distros I tired of uninstalling FF.
+I prefer Librewolf; and when I test out distros I get tired of uninstalling FF.
