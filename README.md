@@ -19,11 +19,11 @@ Run the contents of the delff file in a Linux terminal.
 
 ### Copy/Paste
 
-* Just copy/paste the contents of the [delff file](https://github.com/coltn/delff/blob/main/delff "delff") into terminal
+* Just copy/paste the whole contents of the [delff file](https://github.com/coltn/delff/blob/main/delff "delff") into the terminal
 
 ### Manual Download
 
-* Download the [delff file](https://github.com/coltn/delff/blob/main/delff "delff") and type `sh delff` into terminal
+* Download the [delff file](https://raw.githubusercontent.com/coltn/delff/main/delff "delff") and type `sh delff` into the terminal
 
 ## Why delete Firefox? Why make a tool?
 I prefer Librewolf; and it takes several steps to fully uninstall FF when I test out distros.
