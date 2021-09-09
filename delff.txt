@@ -7,4 +7,4 @@ sudo rm -rf /usr/lib/firefox-addons/;
 sudo rm -rf /rofs/usr/lib/firefox;
 sudo rm -rf /rofs/usr/lib/firefox-addons;
 sudo rm -rf /rofs/etc/firefox
-sudo rm -rf /delff
+sudo rm -rf delff
