@@ -26,3 +26,4 @@ I prefer Librewolf; and it takes several steps to fully uninstall FF when I test
 * Pop!\_OS, which is Debian/Ubuntu-based
 * Linux Mint, which is Debian/Ubuntu-based
 * EndeavorOS, which is Arch-based
+* Manjaro, which is Arch-based
