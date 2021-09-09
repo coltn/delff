@@ -10,7 +10,7 @@ The tool automatically deletes itself after use.
 
 1. open terminal
 2. git clone https://github.com/coltn/delff
-3. sh -e delff/delff.txt
+3. sh -e delff/delff
 
 # Why delete Firefox?
 I prefer Librewolf.
