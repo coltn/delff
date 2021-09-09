@@ -14,4 +14,4 @@ The tool automatically deletes itself after use.
 ## Why delete Firefox? Why make a tool?
 I prefer Librewolf; and it takes several steps to uninstall FF when I test out distros.
 
-Note: This was tested on Pop!\_OS
+### Note: This was tested on Pop!\_OS
