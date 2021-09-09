@@ -12,4 +12,4 @@ The tool automatically deletes itself after use.
 3. run `sh delff/delff`
 
 # Why delete Firefox? Why make a tool?
-I prefer Librewolf. When I test out distros and get tired of uninstalling FF.
+I prefer Librewolf. When I test out distros I tired of uninstalling FF.
