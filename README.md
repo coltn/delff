@@ -1,4 +1,3 @@
-delff
 # Delete Firefox (for Linux)
 
 This is the easiest way I could find to automate the uninstallation of Firefox on Linux.
