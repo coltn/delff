@@ -1,4 +1,5 @@
 sudo apt-get purge -y firefox;
+sudo pacman -Rsnc --noconfirm firefox;
 sudo rm -rf .mozilla/;
 sudo rm -rf .cache/mozilla/;
 sudo rm -rf /etc/firefox/;
