@@ -4,7 +4,7 @@ sudo rm -rf .cache/mozilla/;
 sudo rm -rf /etc/firefox/;
 sudo rm -rf /usr/lib/firefox/;
 sudo rm -rf /usr/lib/firefox-addons/;
-sudo find / -name firefox -exec rm -rfv {} \;
+sudo find / -name firefox* -exec sudo rm -rfv {} \;
 echo
 echo Firefox Deleted. Restart to complete uninstallation.
 echo This tool will now delete itself.
