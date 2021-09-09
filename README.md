@@ -11,5 +11,7 @@ The tool automatically deletes itself after use.
 2. Type `git clone https://github.com/coltn/delff`
 3. Type `sh delff/delff`
 
-# Why delete Firefox? Why make a tool?
-I prefer Librewolf; and when I test out distros I get tired of uninstalling FF.
+## Why delete Firefox? Why make a tool?
+I prefer Librewolf; and it takes several steps to uninstall FF when I test out distros.
+
+Note: This was tested on Pop!\_OS
