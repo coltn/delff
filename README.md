@@ -7,14 +7,14 @@ The tool automatically deletes itself after use.
 
 # Instructions
 
-### CLI / GIT Method:
+## CLI / GIT Method:
 
 1. Open terminal
 2. Type `git clone https://github.com/coltn/delff`
 3. Type `sh delff/delff`
 
-### Non-Git Methods:
-#### (Copy/Paste & Manual Download)
+## Non-Git Methods:
+### (Copy/Paste & Manual Download)
 
 * Just download the [delff file](https://github.com/coltn/delff/blob/main/delff "delff") and type `sh delff` into terminal
 
