@@ -26,7 +26,7 @@ Run the contents of the delff file in a Linux terminal.
 * Download the [delff file](https://raw.githubusercontent.com/coltn/delff/main/delff "delff") and type `sh delff` into the terminal
 
 ## Why delete Firefox? Why make a tool?
-I prefer Librewolf; and this will minimize the number of steps required to fully uninstall FF when testing out distros.
+I prefer Brave; and this will minimize the number of steps required to fully uninstall FF when testing out distros.
 
 ---
 
