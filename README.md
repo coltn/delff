@@ -9,6 +9,8 @@ The tool automatically deletes itself after use.
 
 Run the contents of the delff file in a Linux terminal.
 
+***Warning:** This tool is meant for fresh installs, as it removes all mentions of "firefox" on the system. This may cause issues if there are other files with "firefox" in the name.*
+
 ## Ways to do this:
 
 ### CLI / Git Method:
