@@ -16,7 +16,7 @@ Run the contents of the delff file in a Linux terminal.
 ### CLI / Git Method:
 
 1. Open terminal
-2. Type `git clone https://github.com/coltn/delff`
+2. Type `git clone https://github.com/veredis/delff`
 3. Type `sh delff/delff`
 
 ### Copy/Paste
